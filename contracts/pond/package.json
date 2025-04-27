@@ -1,0 +1,13 @@
+{
+  "name": "pond-contract",
+  "version": "1.0.0",
+  "description": "Reputation and Badge System Smart Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.4"
+  }
+} 
