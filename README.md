@@ -38,17 +38,17 @@ Pond was built specifically for Polkadot Asset Hub, leveraging Polkadot's shared
 
 ## 📸 Screenshots
 
-*(Add screenshots here after the frontend is spun up!)*
-- Wallet Dashboard
-- Reputation Progress
-- Minted Badges Gallery
+<img width="1170" alt="Screenshot 2025-04-27 at 1 58 29 PM" src="https://github.com/user-attachments/assets/abea4740-50f2-4bcb-8bf5-6493bc5936d9" />
+
+<img width="1156" alt="Screenshot 2025-04-27 at 1 58 41 PM" src="https://github.com/user-attachments/assets/eee3cd9b-80a4-43de-8663-87054754717e" />
+
 
 ## 🎥 Demo Video
 
-*(Add Loom/Youtube video link here after recording.)*
-- Explains the contract
-- Walkthrough of UI
-- Shows contract deployed on Westend Asset Hub
+https://github.com/user-attachments/assets/3b3ee91b-3639-4b0b-939f-88db398c818b
+
+https://github.com/user-attachments/assets/2dbeeafc-58ee-4dfe-9d04-94984c5cdae2
+
 
 ## 🛠 Smart Contract Structure
 
